@@ -1,10 +1,54 @@
-# coffee
+<h1 align="center">
+Themes Ligth and Dark
+</h1>
+<br>
+<p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
+</p>
+<br>
 
-A new Flutter project.
 
-## Getting Started
+<p align="center">
+  <img alt="App screen" src="https://user-images.githubusercontent.com/56087579/229372566-17f53c12-43b2-4982-bcf9-fee5ab3917ed.gif" width="180px">
+</p>
 
-This project is a starting point for a Flutter application.
+## 💻 Projeto
+
+Projeto desenvolvido com base em vídeo do YouTube.
+
+
+## :rocket: Tecnologias
+
+Esse app foi desevolvido com as seguintes tecnologias:
+- [Flutter][flutter]
+- [Dart][dart]
+
+
+## :information_source: Como executar
+
+Para clonar e executar esse app você precisará do [Git](https://git-scm.com) + [Flutter][flutter] instalados no seu computador.
+
+### Clone e execute 
+
+```bash
+# Clone esse repositório
+$ git clone https://github.com/LeandroSimo/coffee-app.git
+
+# Entre no repositório
+$ cd coffee-app
+
+# Instale as dependências
+$ flutter pub get
+
+# Execute
+$ flutter run
+
+```
+
+[flutter]: https://flutter.dev/
+[dart]: https://dart.dev/
 
 A few resources to get you started if this is your first Flutter project:
 
