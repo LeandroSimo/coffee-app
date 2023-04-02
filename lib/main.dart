@@ -1,6 +1,6 @@
-import 'package:coffee/app_widget.dart';
+import 'package:coffee/main_coffee_concept_app.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const MainCoffeeConcept());
 }
