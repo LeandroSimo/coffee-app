@@ -47,6 +47,19 @@ $ flutter run
 
 ```
 
+#### Obs.: O projeto está apenas com a build para o android, para rodar no IOS execulte o comando abaixo:
+
+```bash
+# Criando a build do projeto para IOS
+flutter create --plataforms ios
+
+# Instale as dependências
+$ flutter pub get
+
+# Execute
+$ flutter run
+```
+
 [flutter]: https://flutter.dev/
 [dart]: https://dart.dev/
 
